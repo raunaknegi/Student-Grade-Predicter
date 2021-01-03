@@ -39,13 +39,13 @@ The dataset used in this project has the following attributes:
 Some of the plots inside the ipython notebook include:
 
 ### Bar Plot
-![](images/barplot_age_vs_absences.png)
+![](plots%20and%20results/barplot_age_vs_absences.png)
 
 ### Swarm Plot
-![](images/swarmplot_Fail_vs_G3.png)
+![](plots%20and%20results/swarmplot_Fail_vs_G3.png)
 
 ### Seaborn Heatmap
-![](images/heatmap.png
+![](plots%20and%20results/heatmap.png)
 
 ### RMSE Error Plot
-![](images/rmse_error.png)
+![](plots%20and%20results/rmse_error.png)
